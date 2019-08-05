@@ -53,8 +53,7 @@ https://sites.google.com/view/pcr-pro
 43. 2018-09-14-Stereo relative pose from line and point feature triplets [点线结合，但是匹配的是三帧图像] 
 44. 2018-09-14-Realtime Time Synchronized Event-based Stereo [双目事件相机，第一家吧] 
 
-[p][p][p] 
-ICRA+CVPR[/p][/p][/p][p][p][p] 
+ICRA+CVPR 
 45. [ICRA 2018] Detection and Resolution of Motion Conflict in Visual Inertial Odometry [解决视觉与IMU估计值之间冲突问题] 
 46. [ICRA 2018] Monocular Visual Odometry Scale Recovery using Geometrical Constraint 
 47. [ICRA 2018] A Monocular SLAM System Leveraging Structural Regularity in Manhattan World [国内慢慢也有实验室开源了原理与code：http://cvrs.whu.edu.cn/projects/Struct-PL-SLAM/] 
